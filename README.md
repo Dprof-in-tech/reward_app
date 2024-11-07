@@ -7,4 +7,4 @@ This repository contains RewardAPP smart contract written in Cairo.
 - Open up a terminal on the contracts folder and run: `npm run deploy`
 - Watch the terminal log, the contract address of the contract will be logged on successful deployment.
 
-#### The current state of the contract is deployed on Starknet Sepolia at: 0x60b5420fd118bb7eaac00c7df7a2a7352498899ccae2340709f137273c79419
+#### The current state of the contract is deployed on Starknet Sepolia at: 0x7685c41ba5e1b24b4393142ff46a137b5ed46b48476ce3108178770d609da98
